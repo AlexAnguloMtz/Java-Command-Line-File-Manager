@@ -1,6 +1,9 @@
 Personal project to sharpen my understanding of the **'Hexagonal Architecture'**, also called **'Clean Architecture'**
 by **Robert C. Martin**. It is a Java Command Line File Manager. (It is in Spanish but my upcoming projects will be in English).
 
+The code in this project was written with the guidelines exposed by Robert C. Martin in his book **'Clean Code'**, as I believe they help us achieve 
+better software quality.
+
 This project should be executed directly from a Terminal.
 
 - Architecture: 
