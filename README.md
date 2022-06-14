@@ -11,10 +11,12 @@ Hexagonal Architecture with the following layers:
     - View Layer
 
 - Design Patterns used: 
-    - Command Pattern
-    - Facade Pattern
-    - Dependency Injection
-    - The five SOLID Principles
+    - **Command Pattern**
+    - **Facade Pattern**
+    - **Dependency Injection**
+    - The five **SOLID Principles**
+
+- I included **Java 8** features whenever possible, such as **Streams, Lambdas and Method references.** 
 
 - Domain Layer: 
     - The 'FileService' package, which contains classes that are the core of our application. 
